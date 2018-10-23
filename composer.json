@@ -1,0 +1,21 @@
+{
+    "name": "sinevia/php-library-libreid",
+    "description": "PHP Library LibreID",
+    "type": "library",
+    "keywords": ["libreid", "library", "php", "sinevia"],    
+    "homepage": "http://github.com/sinevia/php-library-libreid",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Milan Lesichkov",
+            "email": "lesichkovm@gmail.com",
+            "homepage": "http://lesichkov.co.uk",
+            "role": "Lead Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/LibreId.php",
+        ]
+    }
+}
